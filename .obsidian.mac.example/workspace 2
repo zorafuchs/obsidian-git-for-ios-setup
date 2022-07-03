@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "c19269a8f6219190",
+    "type": "split",
+    "children": [
+      {
+        "id": "442e4895178fef6f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Blue.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "591a36fb8f299ccf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f58845b69db2d498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73e1de6a55643d4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "30348e1b176d3c7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5822157524338d22",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4cb9a0dcc6e4016",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7ff1379c2851caa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "442e4895178fef6f",
+  "lastOpenFiles": [
+    "Blue.md",
+    "Blue Character Sheet.pdf"
+  ]
+}

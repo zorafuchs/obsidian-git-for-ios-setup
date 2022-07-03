@@ -1,0 +1,81 @@
+{
+  "main": {
+    "id": "b58e4a117c318c9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e2cd38764fc4dc3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Blue.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8f100a090a7ac9f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ec825d39ae327ecc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "c68efa166f57b3cb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6558b5a4b63b356b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2de3f31e12cd82cd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Blue.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3e2cd38764fc4dc3",
+  "lastOpenFiles": [
+    "Blue.md",
+    "Blue Inventory.md",
+    "Blue Personality Traits.md"
+  ]
+}

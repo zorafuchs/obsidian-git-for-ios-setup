@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "b58e4a117c318c9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e2cd38764fc4dc3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Blue Inventory.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52806bd59c631604",
+    "type": "split",
+    "children": [
+      {
+        "id": "5942133350ed617b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4497793e4475ea31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3ab9cdb2187fb62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f28c3b021508c60f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d97af05b80a2698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5f343a32a466307",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blue Inventory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3e2cd38764fc4dc3",
+  "lastOpenFiles": [
+    "Blue Inventory.md",
+    "Notizen von Zauberer.md",
+    "Magic.md",
+    "Blue.md",
+    "Blue Character Sheet.pdf",
+    "Geschichte um die verschwunde Miene of Vandelver.md",
+    "Die Geschichte um die verschwundene Miene von.md",
+    "Blue Personality Traits.md"
+  ]
+}
